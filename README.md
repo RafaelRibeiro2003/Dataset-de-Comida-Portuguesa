@@ -7,12 +7,15 @@ As principais funcionalidades da ferramenta incluem a filtragem de imagens com b
 
 ## Processo de Verificação Manual
 Após a coleta automática, foi realizada uma verificação manual para garantir que cada imagem estivesse corretamente ordenada e representasse o prato correspondente. Cada imagem foi visualmente revisada para confirmar a sua adequação à classe atribuída. As imagens que não correspondiam ao prato esperado foram removidas.
-<img src="fotos/fluxograma.jpeg" alt="login" style="margin-right: 10px;"/>
+<img src="fotos/fluxograma.JPG" alt="login" style="margin-right: 5px; height:500px;"/>
 
 ## Resultado
 Numero de classes: 100​
-Total de imagens: 11.962 ​
-Total de imagens por cada classe: 100 a 300
+<p> Total de imagens: 10.000 ​</p>
+<p> Total de imagens por cada classe: 100 </p>
+
+Para meu projeto, utilizei este dataset para treinar um modelo de deep learning com o objetivo de identificar pratos típicos da culinária portuguesa.
+<p> Projeto: https://github.com/RafaelRibeiro2003/Deep-learning-com-dataset-de-comida-portuguesa)">Deep-learning-com-dataset-de-comida-portuguesa
 
 A coleta de imagens diretamente do Google para criar um dataset levanta questões legais importantes relacionadas a direitos autorais e uso justo. As imagens disponíveis na Internet, incluindo as encontradas através do Google Imagens, estão geralmente protegidas por direitos de autor. Isto significa que a utilização destas imagens sem a devida autorização pode constituir uma violação dos direitos dos proprietários das imagens. Neste trabalho, é necessário reconhecer estes direitos e abordar as potenciais desvantagens da utilização de imagens obtidas desta forma. O uso de imagens para fins comerciais ou públicos sem permissão pode resultar em ações legais por parte dos detentores de direitos autorais.
 
