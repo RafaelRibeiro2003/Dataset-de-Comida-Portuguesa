@@ -15,7 +15,7 @@ Numero de classes: 100​
 <p> Total de imagens por cada classe: 100 </p>
 
 Para meu projeto, utilizei este dataset para treinar um modelo de deep learning com o objetivo de identificar pratos típicos da culinária portuguesa.
-<p> Projeto: https://github.com/RafaelRibeiro2003/Deep-learning-com-dataset-de-comida-portuguesa)">Deep-learning-com-dataset-de-comida-portuguesa
+<p> Projeto: https://github.com/RafaelRibeiro2003/Deep-learning-com-dataset-de-comida-portuguesa
 
 A coleta de imagens diretamente do Google para criar um dataset levanta questões legais importantes relacionadas a direitos autorais e uso justo. As imagens disponíveis na Internet, incluindo as encontradas através do Google Imagens, estão geralmente protegidas por direitos de autor. Isto significa que a utilização destas imagens sem a devida autorização pode constituir uma violação dos direitos dos proprietários das imagens. Neste trabalho, é necessário reconhecer estes direitos e abordar as potenciais desvantagens da utilização de imagens obtidas desta forma. O uso de imagens para fins comerciais ou públicos sem permissão pode resultar em ações legais por parte dos detentores de direitos autorais.
 
