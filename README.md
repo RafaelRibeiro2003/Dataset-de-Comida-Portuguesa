@@ -7,7 +7,7 @@ As principais funcionalidades da ferramenta incluem a filtragem de imagens com b
 
 ## Processo de Verificação Manual
 Após a coleta automática, foi realizada uma verificação manual para garantir que cada imagem estivesse corretamente ordenada e representasse o prato correspondente. Cada imagem foi visualmente revisada para confirmar a sua adequação à classe atribuída. As imagens que não correspondiam ao prato esperado foram removidas.
-<img src="fotos/fluxograma.JPG" alt="login" style="margin-right: 5px; height:500px;"/>
+<p> <img src="fotos/fluxograma.JPG" alt="login" style="margin-right: 5px; height:500px;"/> </p>
 
 ## Resultado
 Numero de classes: 100​
